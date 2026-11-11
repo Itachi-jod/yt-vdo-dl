@@ -9,7 +9,7 @@
   ],
   "routes": [
     {
-      "src": "/api/download",
+      "src": "/api/ytdl",
       "dest": "/index.js"
     }
   ]
