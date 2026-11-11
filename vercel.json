@@ -10,7 +10,7 @@
   "routes": [
     {
       "src": "/api/download",
-      "dest": "index.js"
+      "dest": "/index.js"
     }
   ]
 }
