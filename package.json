@@ -1,8 +1,8 @@
 
 {
-  "name": "itachixd-video-api",
+  "name": "itachixd-youtube-api",
   "version": "1.0.0",
-  "description": "Video API for Vercel",
+  "description": "YouTube video information API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
